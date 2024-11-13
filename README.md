@@ -103,8 +103,8 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Murielle Nguitcho
-- GitHub: [@Nguitchomurielle](https://github.com/ngalamac/Hello-Codegisoft Academy.git)
+👤 Murielle Nguitchou
+- GitHub: [@Nguitchomurielle](https://github.com/NGUITCHOU/Hello_Codegisoft.git)
 
  FUTURE FEATURES 
 
